@@ -10,7 +10,7 @@ Repository for group ECOLO (Gaiasavers)
 ---
 # Project context
 
-<p> ECOLO1 is a group of AI learning developpers helping Bio-scientists to classify plankton species according to their specifications  
+<p> ECOLO1 is a group of AI developers helping Bio-scientists to classify plankton species according to their specifications  
 
 The team will receive a Starting kit and build a Python learning algorithm to help scientists to classify plankton species from a collection of picture.  
 
